@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">galeriajose</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="previa">imagen previa</string>
+    <string name="galerydescription">Programacion III Unadeca</string>
+    <string name="username">Usuario</string>
+    <string name="password">Password</string>
+    <string name="loggin">login</string>
+    <string name="register">registrese</string>
+    <string name="saveandlogin">savelogin</string>
+    <string name="registerandlogin">REGISTRARSE Y INICIAR CECION</string>
+    <string name="loginerror">sucedio un error al iniciar secion, los campos estan vacios</string>
+    <string name="tryregister">no se encontro informacion para este usuario, intente registrarlo</string>
+    <string name="register_error">registre usuario</string>
+    <string name="roll">Rol</string>
+    <string name="app_login">iniciar secion</string>
+    <string name="app_register">registrate</string>
+    <string name="loogout">cerrar cesion</string>
+
+
+</resources>
